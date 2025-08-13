@@ -12,6 +12,7 @@ https://scratch.mit.edu/projects/1204512828/
 
 https://editor.p5js.org/bernardo9cpco/sketches/x_aiRIJHW
 
-
+certificado alura do curso feito:
 
 [BERNARDO OSCAR PINTO THOELE - Unidade Lógica de programação_ comece em lógica com o jogo Pong e JavaScript - Alura.pdf](https://github.com/user-attachments/files/21763237/BERNARDO.OSCAR.PINTO.THOELE.-.Unidade.Logica.de.programacao_.comece.em.logica.com.o.jogo.Pong.e.JavaScript.-.Alura.pdf)
+
